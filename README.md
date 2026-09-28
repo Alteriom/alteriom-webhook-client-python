@@ -1,6 +1,6 @@
 # alteriom-webhook-client
 
-Python SDK for the [Alteriom Webhook Connector](https://github.com/Alteriom/alteriom-webhook-connector). Provides HMAC-SHA256 signature verification, Pydantic models for delivery payloads, and a FastAPI integration helper.
+Python SDK for the Alteriom Webhook Connector. Provides HMAC-SHA256 signature verification, Pydantic models for delivery payloads, and a FastAPI integration helper.
 
 ## Installation
 
